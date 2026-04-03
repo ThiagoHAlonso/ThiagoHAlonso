@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thiago Alonso
 
-**´QA Engineer´**
+**`QA Engineer`**
 
 Me chamo Thiago Henrique Alonso, tenho 20 anos e sou de São Paulo. Concluí o ensino médio na Etec Ferraz de Vasconcelos com .
 
