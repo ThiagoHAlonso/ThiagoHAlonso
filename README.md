@@ -39,23 +39,6 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoHAlonso&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHAlonso&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribuições (Snake Game)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ThiagoHAlonso/ThiagoHAlonso/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-</p>
-
----
-
 ### 🌐 Onde me encontrar
 
 <p align="left">
