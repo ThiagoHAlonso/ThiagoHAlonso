@@ -36,7 +36,7 @@ Sou focado em garantir a qualidade de software através de testes automatizados,
 **Ferramentas de Teste e Gestão**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,postman,jira,git,linux" />
+    <img src="https://skillicons.dev/icons?i=cypress,postman,git,linux" />
   </a>
 </p>
 
@@ -65,4 +65,5 @@ Sou focado em garantir a qualidade de software através de testes automatizados,
 
 ---
 🤝 Sempre aberto a colaborações, parcerias e troca de conhecimentos em QA e Engenharia de Software.
+
 🚀 *"Qualidade não é um ato, é um hábito. O objetivo do teste não é apenas encontrar bugs, mas prevenir que eles aconteçam e garantir a melhor experiência para o usuário."*
