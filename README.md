@@ -2,7 +2,7 @@
 
 ### Analista de QA em transição | Especialista em Suporte Técnico
 
-🇧🇷 Brasil
+ Brasil
 
 Atualmente trabalho com suporte técnico e estou migrando minha carreira para **Quality Assurance (QA)**. Sou focado em garantir a qualidade de software através de testes automatizados, processos ágeis e excelência técnica.
 
@@ -11,29 +11,39 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 ### 🧠 O que eu faço
 
 🏗️ Automação de testes de ponta a ponta
+
 ⚡ Testes de API e performance
+
 🧩 Metodologias Ágeis (Scrum & Kanban)
+
 🔐 Garantia de segurança e autenticação
+
 🤖 Integração contínua e automação de processos
+
 📊 Elaboração de planos de teste e documentação técnica
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Linguagens e Frameworks**
-
+**Linguagens e Banco de Dados**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cs,dotnet,postgres,mysql" />
   </a>
 </p>
 
-**Ferramentas e DevOps**
-
+**Ferramentas de Teste e Gestão**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,postman,git,linux,vscode,mysql" />
+    <img src="https://skillicons.dev/icons?i=cypress,postman,jira,git,linux" />
+  </a>
+</p>
+
+**IDEs e Editores**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse" />
   </a>
 </p>
 
