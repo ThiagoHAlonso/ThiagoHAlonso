@@ -37,8 +37,8 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoHAlonso&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHAlonso&layout=compact&theme=tokyonight" />
+  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=ThiagoHAlonso&show_icons=true&theme=tokyonight&count_private=true](https://github.com/ThiagoHAlonso)" />
+  <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHAlonso&layout=compact&theme=tokyonight](https://github.com/ThiagoHAlonso)" />
 </p>
 
 ---
