@@ -2,9 +2,9 @@
 
 ### Analista de QA em transição | Especialista em Suporte Técnico
 
- Brasil
 
-Atualmente trabalho com suporte técnico e estou migrando minha carreira para **Quality Assurance (QA)**. Sou focado em garantir a qualidade de software através de testes automatizados, processos ágeis e excelência técnica.
+Atualmente trabalho com suporte técnico e estou migrando minha carreira para **Quality Assurance (QA)**. 
+Sou focado em garantir a qualidade de software através de testes automatizados, processos ágeis e excelência técnica.
 
 ---
 
@@ -64,5 +64,5 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 </p>
 
 ---
-
-🚀 *"Qualidade não é um ato, é um hábito."*
+🤝 Sempre aberto a colaborações, parcerias e troca de conhecimentos em QA e Engenharia de Software.
+🚀 *"Qualidade não é um ato, é um hábito. O objetivo do teste não é apenas encontrar bugs, mas prevenir que eles aconteçam e garantir a melhor experiência para o usuário."*
