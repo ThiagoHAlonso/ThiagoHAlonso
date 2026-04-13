@@ -1,6 +1,7 @@
 # Olá 👋, eu sou o Thiago Alonso
 
 ### Analista de QA em transição | Especialista em Suporte Técnico
+
 🇧🇷 Brasil
 
 Atualmente trabalho com suporte técnico e estou migrando minha carreira para **Quality Assurance (QA)**. Sou focado em garantir a qualidade de software através de testes automatizados, processos ágeis e excelência técnica.
@@ -8,6 +9,7 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 ---
 
 ### 🧠 O que eu faço
+
 🏗️ Automação de testes de ponta a ponta
 ⚡ Testes de API e performance
 🧩 Metodologias Ágeis (Scrum & Kanban)
@@ -20,6 +22,7 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 ### 🛠️ Tech Stack
 
 **Linguagens e Frameworks**
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,java,cs,dotnet" />
@@ -27,6 +30,7 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 </p>
 
 **Ferramentas e DevOps**
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cypress,postman,git,linux,vscode,mysql" />
@@ -36,14 +40,16 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 ---
 
 ### 📊 Estatísticas do GitHub
+
 <p align="left">
-  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=ThiagoHAlonso&show_icons=true&theme=tokyonight&count_private=true](https://github.com/ThiagoHAlonso)" />
-  <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHAlonso&layout=compact&theme=tokyonight](https://github.com/ThiagoHAlonso)" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoHAlonso&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHAlonso&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🐍 Contribuições (Snake Game)
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/ThiagoHAlonso/ThiagoHAlonso/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
 </p>
@@ -51,6 +57,7 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 ---
 
 ### 🌐 Onde me encontrar
+
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagohalonso/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
@@ -65,4 +72,4 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para **
 
 ---
 
-🚀 _"Qualidade não é um ato, é um hábito."_
+🚀 *"Qualidade não é um ato, é um hábito."*
