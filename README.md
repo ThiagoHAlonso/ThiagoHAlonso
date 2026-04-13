@@ -29,7 +29,7 @@ Sou focado em garantir a qualidade de software através de testes automatizados,
 **Linguagens e Banco de Dados**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,css,js,java,python,cs,dotnet,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cs,dotnet,postgres,mysql" />
   </a>
 </p>
 
