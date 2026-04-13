@@ -18,18 +18,18 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para Qu
 ### 🛠️ Ferramentas e Tecnologias
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <div style="display: inline-block; background-color: #F7DF1E; color: black; font-weight: bold; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
+  <div style="display: inline-block; background-color: #ED8B00; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
+  <div style="display: inline-block; background-color: #239120; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
+  <div style="display: inline-block; background-color: #3776AB; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
 </div>
 
 <br />
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <div style="display: inline-block; background-color: #17202C; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
+  <div style="display: inline-block; background-color: #FF6C37; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
+  <div style="display: inline-block; background-color: #4479A1; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
 </div>
 
 ---
@@ -37,8 +37,8 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para Qu
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoHAlonso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHAlonso&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/languages.svg" />
 </div>
 
 ---
@@ -46,6 +46,6 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para Qu
 ### 📱 Vamos nos conectar?
 
 <div align="left">
-  <a href="mailto:thiagohenriquealonso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thiagohalonso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:thiagohenriquealonso@gmail.com" style="text-decoration: none;"><div style="display: inline-block; background-color: #D14836; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div></a>
+  <a href="https://www.linkedin.com/in/thiagohalonso/" style="text-decoration: none;"><div style="display: inline-block; background-color: #0077B5; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div></a>
 </div>
