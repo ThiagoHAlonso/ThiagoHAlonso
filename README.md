@@ -15,22 +15,19 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para Qu
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <div style="display: inline-block; background-color: #F7DF1E; color: black; font-weight: bold; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
-  <div style="display: inline-block; background-color: #ED8B00; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
-  <div style="display: inline-block; background-color: #239120; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
-  <div style="display: inline-block; background-color: #3776AB; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,cs,dotnet,linux" />
+  </a>
+</p>
 
-<br />
-
-<div align="left">
-  <div style="display: inline-block; background-color: #17202C; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
-  <div style="display: inline-block; background-color: #FF6C37; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
-  <div style="display: inline-block; background-color: #4479A1; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,cypress,git" />
+  </a>
+</p>
 
 ---
 
@@ -43,9 +40,15 @@ Atualmente trabalho com suporte técnico e estou migrando minha carreira para Qu
 
 ---
 
-### 📱 Vamos nos conectar?
+### 📱 Minhas Redes
 
-<div align="left">
-  <a href="mailto:thiagohenriquealonso@gmail.com" style="text-decoration: none;"><div style="display: inline-block; background-color: #D14836; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div></a>
-  <a href="https://www.linkedin.com/in/thiagohalonso/" style="text-decoration: none;"><div style="display: inline-block; background-color: #0077B5; color: white; padding: 4px; border-radius: 4px; width: 40px; height: 40px; text-align: center; margin-right: 5px; margin-bottom: 5px; vertical-align: top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="24" width="24" style="vertical-align: middle; margin-top: 4px;" /></div></a>
+<div>
+  <p>
+    <a href="https://www.linkedin.com/in/thiagohalonso/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:thiagohenriquealonso@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </p>
 </div>
