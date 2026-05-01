@@ -1,4 +1,4 @@
-# Olá 👋, me chamo Thiago Alonso
+# Olá, me chamo Thiago Alonso
 
 ### Analista de QA em transição | Especialista em Suporte Técnico
 
