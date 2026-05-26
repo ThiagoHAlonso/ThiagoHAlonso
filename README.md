@@ -1,6 +1,6 @@
 # Olá, me chamo Thiago Alonso
 
-### Analista de QA em transição | Especialista em Suporte Técnico
+### Analista de QA em transição | Suporte Técnico
 
 
 Atualmente trabalho com suporte técnico e estou migrando minha carreira para **Quality Assurance (QA)**. 
