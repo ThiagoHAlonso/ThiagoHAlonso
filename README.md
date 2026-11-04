@@ -66,4 +66,4 @@ Sou focado em garantir a qualidade de software através de testes automatizados,
 ---
 🤝 Sempre aberto a colaborações, parcerias e troca de conhecimentos em QA e Engenharia de Software.
 
-🚀 *"Qualidade não é um ato, é um hábito. O objetivo do teste não é apenas encontrar bugs, mas prevenir que eles aconteçam e garantir a melhor experiência para o usuário."*
+
