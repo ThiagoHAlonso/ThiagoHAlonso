@@ -27,7 +27,7 @@ Validação de endpoints usando a Star Wars API (SWAPI) para praticar testes de 
 **Linguagens e banco de dados**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cs,dotnet,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql" />
 </p>
 
 **Testes e versionamento**
